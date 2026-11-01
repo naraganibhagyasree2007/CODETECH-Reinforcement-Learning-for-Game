@@ -6,8 +6,8 @@ Reinforcement Learning for Games
 
 ## Intern Details
 - Full Name: Bhagya Sree Naragani
-- Intern ID: [ADD YOUR INTERN ID]
-- No. of Weeks: [ADD NUMBER OF WEEKS]
+- Intern ID: CITS9478
+- No. of Weeks: 12 Weeks
 
 ## Project Scope
 Develop a game-playing AI agent using Reinforcement Learning
